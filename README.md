@@ -6,7 +6,7 @@ I am Aritri Chatterjee, you can call me Auri, I design the web in MERN, some of 
 </div>
 
 <div id="badges">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/aritrichatterjee9">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="your-youtube-URL">
