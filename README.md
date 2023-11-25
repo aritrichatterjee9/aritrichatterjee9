@@ -1,8 +1,8 @@
 ### Hi there 👋
-I am Aritri Chatterjee, you can call me Auri, I design the web in MERN, some of my repos are private but adequately deployed in Vercel, so please enjoy!
+I am Aritri Chatterjee, you can call me Auri, I design the web in MERN, some of my repos deployed in Vercel, so please enjoy!
 <!--
 **aritrichatterjee9/aritrichatterjee9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![new-game-ahagon-umiko-programming](https://github.com/aritrichatterjee9/aritrichatterjee9/assets/73156770/915efe26-9c11-46bd-aa0a-7eb1e9d75111)
+![new-game-ahagon-umiko-programming](https://github.com/aritrichatterjee9/aritrichatterjee9/assets/73156770/30812a5f-83c5-47cf-b1c8-9ea2147d5cc8)
 
 Here are some ideas to get you started:
 
