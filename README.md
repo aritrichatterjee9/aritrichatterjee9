@@ -10,6 +10,9 @@ I am Aritri Chatterjee, you can call me Auri, I design the web in MERN, some of 
   </a>
 </div>
 
+<img src="https://komarev.com/ghpvc/?username=aritrichatterjee9&style=flat-square&color=blue" alt=""/>
+
+
 <h4>
   Hi there 👋 I specialise in the following:
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
