@@ -2,8 +2,9 @@
 I am Aritri Chatterjee, you can call me Auri, I design the web in MERN, some of my repos deployed in Vercel, so please enjoy!
 <!--
 **aritrichatterjee9/aritrichatterjee9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![new-game-ahagon-umiko-programming](https://github.com/aritrichatterjee9/aritrichatterjee9/assets/73156770/30812a5f-83c5-47cf-b1c8-9ea2147d5cc8)
-
+<div id="header" align="center">
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"](https://media.giphy.com/media/dEvfJaOEzxl9AUSzHP/giphy.gif)/>
+</div>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
