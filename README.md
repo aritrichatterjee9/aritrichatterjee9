@@ -11,8 +11,7 @@ I am Aritri Chatterjee, you can call me Auri, I design the web in MERN, some of 
 </div>
 
 <h4>
-  Hi there 👋
-
+  Hi there 👋 I specialise in the following:
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h4>
 <div>
