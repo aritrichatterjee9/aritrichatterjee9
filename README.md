@@ -27,3 +27,5 @@ I am Aritri Chatterjee, you can call me Auri, I design the web in MERN, some of 
 </div>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aritrichatterjee9&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aritrichatterjee9&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
