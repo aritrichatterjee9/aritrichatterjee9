@@ -37,7 +37,4 @@ I am Aritri Chatterjee, you can call me Auri, I design the web in MERN, some of 
 
 ---
 
-### 📈 GitHub Streak:
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aritrichatterjee9&theme=dark)](https://git.io/streak-stats)
 
