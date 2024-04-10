@@ -1,6 +1,6 @@
 ### 
 <h4>
-  Hi there 👋 I'm Aritri Chatterjee, but you can call me Auri. I design the web in MERN, and some of my repos are deployed on Vercel. Check out my personal website <a href="https://aritri-portfolio.vercel.app/">here</a> and enjoy!
+  Hi there 👋 I'm Aritri Chatterjee, but you can call me Auri. I design the web, and some of my repos are deployed on Vercel. Check out my personal website <a href="https://aritri-portfolio.vercel.app/">here</a> and enjoy!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h4>
 
