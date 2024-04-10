@@ -4,6 +4,11 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h4>
 
+<h4>
+  Check out my analytics portfolio <a href="https://aritri-portfolio.vercel.app/">@Analytics</a> and enjoy!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h4>
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="100"/>
 </div>
