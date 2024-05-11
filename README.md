@@ -29,7 +29,7 @@
 
 ### 📊 GitHub Stats:
 
-![Aritri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aritrichatterjee9&show_icons=true&theme=radical)
+![Aritri's GitHub stats](https://github-readme-stats.vercel.app/api?username=aritrichatterjee9&theme=dark&show_icons=true)
 
 ---
 
