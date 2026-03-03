@@ -1,5 +1,5 @@
 <h4>
-  Hi there 👋 I'm Aritri Chatterjee (Auri).  
+  Hi there 👋 I'm Aritri Chatterjee (Ari).  
   I am a MERN Stack Developer. I design the web, and some of my repos are deployed on Vercel.  
   Check out my portfolio website <a href="https://aritri9.vercel.app/">here</a>!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
