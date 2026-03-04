@@ -20,11 +20,6 @@
   <img src="https://komarev.com/ghpvc/?username=aritrichatterjee9&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
 
----
-
-
-
----
 
 ## 🔥 GitHub Streak
 
