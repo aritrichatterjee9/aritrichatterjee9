@@ -7,7 +7,7 @@
 
 <h4>
   Check out my analytics portfolio 
-  <a href="https://www.novypro.com/profile_projects/aritri2024">@Analytics</a> and enjoy!
+  <a href="https://www.novypro.com/profile_projects/aritri2024">@Analytics</a>
 </h4>
 
 <div align="center">
