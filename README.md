@@ -13,8 +13,7 @@
 <br/><br/>
 
 <p>
-building modern web applications using the mern stack  
-some projects deployed on vercel
+building blahh blahh blhahh systems, next please! 
 </p>
 
 <br/>
