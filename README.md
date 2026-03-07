@@ -47,8 +47,6 @@ analytics → https://www.novypro.com/profile_projects/aritri2024
 <div align="center" style="font-family:Courier New, monospace;">
 
 
----
-
 <h3>github_streak</h3>
 
 <img 
