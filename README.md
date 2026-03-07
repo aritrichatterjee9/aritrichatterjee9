@@ -14,7 +14,7 @@
 
 <p>
 building systems. shipping code. repeating.
-  Stop cribbing about A,I
+  Stop crying about A,I
 </p>
 
 <h3>profile_stats</h3>
