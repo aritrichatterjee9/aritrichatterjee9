@@ -14,7 +14,7 @@
 
 <p>
 building systems. shipping code. repeating.
-  Stop crying about A,I! Its open source! Use it!
+ 
 </p>
 
 <h3>profile_stats</h3>
