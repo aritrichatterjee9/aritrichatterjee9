@@ -29,7 +29,7 @@ analytics → https://www.novypro.com/profile_projects/aritri2024
 
 <div align="center" style="font-family:Courier New, monospace;">
 
-<h3>coding</h3>
+<h3>bobbie the builder</h3>
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320"/>
 
