@@ -16,9 +16,13 @@
 building systems. shipping code. repeating.
 </p>
 
-<h3>profile_views</h3>
+<h3>profile_stats</h3>
 
-<img src="https://komarev.com/ghpvc/?username=aritrichatterjee9&style=for-the-badge&color=4c566a&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=aritrichatterjee9&style=for-the-badge&label=PROFILE+VIEWS&color=4c566a&labelColor=1f2937"/>
+
+<img src="https://img.shields.io/github/followers/aritrichatterjee9?style=for-the-badge&label=FOLLOWERS&color=4c566a&labelColor=1f2937"/>
+
+<img src="https://img.shields.io/github/stars/aritrichatterjee9?style=for-the-badge&label=STARS&color=4c566a&labelColor=1f2937"/>
 
 <br/><br/>
 
