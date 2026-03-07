@@ -1,51 +1,50 @@
-<div align="center">
+<div align="center" style="font-family:Courier New, monospace;">
 
-<h2 style="font-family:Courier New;">Aritri Chatterjee</h2>
+<h2>Aritri Chatterjee</h2>
 
-<p style="font-family:Courier New;">
+<p>
 mern stack developer
 </p>
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26"/>
 
-</div>
+<br/><br/>
 
----
-
-<div align="center">
-
-<h3 style="font-family:Courier New;">about</h3>
-
-<p style="font-family:Courier New;">
-building modern web applications using the mern stack  
+<p>
+building modern web applications using the mern stack <br/>
 some projects deployed on vercel
 </p>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320"/>
+<br/>
+
+<p>
+portfolio → https://aritri9.vercel.app/
+<br/>
+analytics → https://www.novypro.com/profile_projects/aritri2024
+</p>
 
 </div>
 
 ---
 
-<div align="center">
+<div align="center" style="font-family:Courier New, monospace;">
 
-<h3 style="font-family:Courier New;">work</h3>
+<h3>coding</h3>
 
-<p style="font-family:Courier New;">
-portfolio → https://aritri9.vercel.app/  
-analytics → https://www.novypro.com/profile_projects/aritri2024
-</p>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320"/>
 
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="160"/>
+<br/><br/>
+
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="150"/>
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200"/>
 
 </div>
 
 ---
 
-<div align="center">
+<div align="center" style="font-family:Courier New, monospace;">
 
-<h3 style="font-family:Courier New;">github streak</h3>
+<h3>github streak</h3>
 
 <img src="https://streak-stats.demolab.com?user=aritrichatterjee9&theme=tokyonight&hide_border=true"/>
 
@@ -53,9 +52,9 @@ analytics → https://www.novypro.com/profile_projects/aritri2024
 
 ---
 
-<div align="center">
+<div align="center" style="font-family:Courier New, monospace;">
 
-<h3 style="font-family:Courier New;">activity</h3>
+<h3>activity</h3>
 
 <img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="320"/>
 
@@ -63,7 +62,7 @@ analytics → https://www.novypro.com/profile_projects/aritri2024
 
 ---
 
-<div align="center">
+<div align="center" style="font-family:Courier New, monospace;">
 
 <img src="https://komarev.com/ghpvc/?username=aritrichatterjee9&style=flat-square&color=blue"/>
 
