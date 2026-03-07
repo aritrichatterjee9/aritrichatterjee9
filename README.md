@@ -46,11 +46,6 @@ analytics → https://www.novypro.com/profile_projects/aritri2024
 
 <div align="center" style="font-family:Courier New, monospace;">
 
-<h3>dev_loop</h3>
-
-<img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="320"/>
-
-</div>
 
 ---
 
