@@ -20,10 +20,6 @@ building systems. shipping code. repeating.
 
 <img src="https://komarev.com/ghpvc/?username=aritrichatterjee9&style=for-the-badge&label=PROFILE+VIEWS&color=4c566a&labelColor=1f2937"/>
 
-<img src="https://img.shields.io/github/followers/aritrichatterjee9?style=for-the-badge&label=FOLLOWERS&color=4c566a&labelColor=1f2937"/>
-
-<img src="https://img.shields.io/github/stars/aritrichatterjee9?style=for-the-badge&label=STARS&color=4c566a&labelColor=1f2937"/>
-
 <br/><br/>
 
 <p>
