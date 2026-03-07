@@ -15,6 +15,11 @@
 <p>
 building systems. shipping code. repeating.
 </p>
+<h2>profile_views</h2>
+
+<img src="https://komarev.com/ghpvc/?username=aritrichatterjee9&style=for-the-badge&color=00FFFF&label=PROFILE+VIEWS"/>
+
+</div>
 
 <br/>
 
@@ -30,8 +35,6 @@ analytics → https://www.novypro.com/profile_projects/aritri2024
 <div align="center" style="font-family:Courier New, monospace;">
 
 <h3>bobbie the builder</h3>
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320"/>
 
 <br/><br/>
 
@@ -70,11 +73,6 @@ src="https://streak-stats.demolab.com?user=aritrichatterjee9&theme=tokyonight&hi
 
 <div align="center" style="font-family:Courier New, monospace;">
 
-<h2>profile_views</h2>
-
-<img src="https://komarev.com/ghpvc/?username=aritrichatterjee9&style=for-the-badge&color=00FFFF&label=PROFILE+VIEWS"/>
-
-</div>
 
 ---
 
