@@ -13,7 +13,7 @@
 <br/><br/>
 
 <p>
-building blahh blahh blhahh systems, next please! 
+building systems. shipping code. repeating.
 </p>
 
 <br/>
@@ -52,10 +52,6 @@ analytics → https://www.novypro.com/profile_projects/aritri2024
 
 <img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="320"/>
 
-<br/><br/>
-
-<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="260"/>
-
 </div>
 
 ---
@@ -74,13 +70,9 @@ src="https://streak-stats.demolab.com?user=aritrichatterjee9&theme=tokyonight&hi
 
 <div align="center" style="font-family:Courier New, monospace;">
 
-<h3>late_night_debugging</h3>
+<h2>profile_views</h2>
 
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300"/>
-
-<br/><br/>
-
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="260"/>
+<img src="https://komarev.com/ghpvc/?username=aritrichatterjee9&style=for-the-badge&color=00FFFF&label=PROFILE+VIEWS"/>
 
 </div>
 
@@ -88,14 +80,6 @@ src="https://streak-stats.demolab.com?user=aritrichatterjee9&theme=tokyonight&hi
 
 <div align="center" style="font-family:Courier New, monospace;">
 
-<img src="https://komarev.com/ghpvc/?username=aritrichatterjee9&style=flat-square&color=00FFFF"/>
-
-</div>
-
----
-
-<div align="center" style="font-family:Courier New, monospace;">
-
-<p>code.create.deploy.repeat();</p>
+<p><b>code.create.deploy.repeat();</b></p>
 
 </div>
