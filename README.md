@@ -4,11 +4,11 @@
 
 <p>mern stack developer</p>
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/>
+
 
 <br/><br/>
 
-<img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="220"/>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnBzMWppb2xtdDNuZHV5eHN6dWwzbTl6c3N6dnFhcW10M3ppY250OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT0Gqle4w9Klfsl6ik/giphy.gif" width="220"/>
 
 <br/><br/>
 
